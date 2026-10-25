@@ -36,13 +36,16 @@ This project uses tables from two datasets:
 
 The tables were organised within a single database schema.
 
-## Project Structure
+
+## Repository Contents
+
+```text
 
 sql-practiced-queries
 ├── README.md
 ├── practice_combined_table_queries.sql
 └── practiced_combined_table_queries_result.xlsx
-
+```
 
 ## Purpose
 
