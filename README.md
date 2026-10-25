@@ -31,8 +31,8 @@ The queries focus on fundamental SQL operations used to retrieve, filter, sort, 
 
 This project uses tables from two datasets:
 
-- **O-List Brazilian e-commerce dataset:** 
-- **iStudio project dataset:** 
+- **O-List Brazilian e-commerce dataset** 
+- **iStudio project dataset** 
 
 The tables were organised within a single database schema.
 
